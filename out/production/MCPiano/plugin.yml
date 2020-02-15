@@ -1,0 +1,12 @@
+main: ch.nightfury34.main.main
+name: mcPiano
+version: 1.0
+author: nightfury34
+
+commands:
+  piano spawn:
+    description: spawn piano
+    useage: /<command> args
+  piano:
+    description: Help
+    useage: /<command>
