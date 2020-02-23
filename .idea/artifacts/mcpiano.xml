@@ -3,7 +3,9 @@
     <output-path>$PROJECT_DIR$/out/artifacts/mcpiano</output-path>
     <root id="archive" name="mcpiano.jar">
       <element id="module-output" name="MCPiano" />
-      <element id="library" level="module" name="JUnit4" module-name="MCPiano" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
     </root>
   </artifact>
 </component>

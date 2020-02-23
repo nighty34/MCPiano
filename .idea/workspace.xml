@@ -6,26 +6,76 @@
     </artifacts-to-build>
   </component>
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/ch/nightfury34/main/Combo.java" line="46" />
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/ch/nightfury34/main/Combo.java" line="45" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ec8c3f5-56d9-4458-a134-9687735b11b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/json_20190722.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jsontest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch/nightfury34/main/armorstands/ArmorstandPosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch/nightfury34/main/armorstands/ParsedArmorstand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch/nightfury34/main/utility/JSONHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_koca2000_NoteBlockAPI_1_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_17_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_json_simple_json_simple_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_persistence_api_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_md_5_bungeecord_chat_1_8_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_avaje_ebean_2_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bukkit_bukkit_1_8_8_R0_1_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20190722.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_spigotmc_spigot_api_1_8_8_R0_1_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch/nightfury34/main/utility/JSONHandlerORG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/mcpiano.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/mcpiano.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/NoteBlockAPI_1_4_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/json_20190722.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/spigot_1_8_8_R0_1_SNAPSHOT_latest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MCPiano.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MCPiano.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MCPiano/ch/nightfury34/main/armorstands/Summoner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MCPiano/ch/nightfury34/main/armorstands/Summoner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MCPiano/ch/nightfury34/main/commands/CommandPiano.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MCPiano/ch/nightfury34/main/commands/CommandPiano.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MCPiano/ch/nightfury34/main/utility/ArmorStandHandlerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MCPiano/ch/nightfury34/main/utility/ArmorStandHandlerTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch/nightfury34/main/armorstands/Summoner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch/nightfury34/main/armorstands/Summoner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch/nightfury34/main/commands/CommandPiano.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch/nightfury34/main/commands/CommandPiano.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch/nightfury34/main/utility/ArmorStandHandlerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch/nightfury34/main/utility/ArmorStandHandlerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MCPiano/ch/nightfury34/main/Combo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MCPiano/ch/nightfury34/main/MusicManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MCPiano/ch/nightfury34/main/SongPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MCPiano/ch/nightfury34/main/ViewInterpreter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MCPiano/ch/nightfury34/main/YawPitch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MCPiano/ch/nightfury34/main/armorstands/LocalArmorStand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MCPiano/ch/nightfury34/main/armorstands/RelativeLocation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MCPiano/ch/nightfury34/main/armorstands/Summoner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MCPiano/ch/nightfury34/main/commands/CommandPiano.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MCPiano/ch/nightfury34/main/events/EventHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MCPiano/ch/nightfury34/main/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MCPiano/ch/nightfury34/main/utility/ArmorStandHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MCPiano/ch/nightfury34/main/utility/ArmorStandHandlerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MCPiano/ch/nightfury34/main/utility/ItemManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MCPiano/ch/nightfury34/main/utility/NBSDecoder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MCPiano/ch/nightfury34/main/utility/PropertiesHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MCPiano/ch/nightfury34/main/utility/XMaterial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch/nightfury34/main/Combo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch/nightfury34/main/Combo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch/nightfury34/main/MusicManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch/nightfury34/main/MusicManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch/nightfury34/main/SongPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch/nightfury34/main/SongPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch/nightfury34/main/ViewInterpreter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch/nightfury34/main/ViewInterpreter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch/nightfury34/main/YawPitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch/nightfury34/main/YawPitch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch/nightfury34/main/armorstands/ArmorstandPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch/nightfury34/main/armorstands/ArmorstandPosition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch/nightfury34/main/armorstands/LocalArmorStand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch/nightfury34/main/armorstands/LocalArmorStand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch/nightfury34/main/armorstands/ParsedArmorstand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch/nightfury34/main/armorstands/ParsedArmorstand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch/nightfury34/main/armorstands/RelativeLocation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch/nightfury34/main/armorstands/RelativeLocation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch/nightfury34/main/armorstands/Summoner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch/nightfury34/main/armorstands/Summoner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch/nightfury34/main/commands/CommandPiano.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch/nightfury34/main/commands/CommandPiano.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch/nightfury34/main/events/EventHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch/nightfury34/main/events/EventHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch/nightfury34/main/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch/nightfury34/main/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch/nightfury34/main/utility/ArmorStandHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch/nightfury34/main/utility/ArmorStandHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch/nightfury34/main/utility/ArmorStandHandlerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch/nightfury34/main/utility/ArmorStandHandlerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch/nightfury34/main/utility/ItemManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch/nightfury34/main/utility/ItemManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch/nightfury34/main/utility/JSONHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch/nightfury34/main/utility/JSONHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch/nightfury34/main/utility/NBSDecoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch/nightfury34/main/utility/NBSDecoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch/nightfury34/main/utility/PropertiesHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch/nightfury34/main/utility/PropertiesHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch/nightfury34/main/utility/XMaterial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch/nightfury34/main/utility/XMaterial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugin.yml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,23 +88,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch/nightfury34/main/armorstands/Summoner.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ch/nightfury34/main/commands/CommandPiano.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="43" column="47" selection-start-line="43" selection-start-column="47" selection-end-line="43" selection-end-column="47" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#summonStand#0;class#Summoner#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch/nightfury34/main/commands/CommandPiano.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="88" selection-start-line="23" selection-start-column="88" selection-end-line="23" selection-end-column="88" />
+            <state relative-caret-position="85">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -63,55 +100,72 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch/nightfury34/main/armorstands/ParsedArmorstand.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ch/nightfury34/main/utility/NBSDecoder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="45" column="74" selection-start-line="45" selection-start-column="74" selection-end-line="45" selection-end-column="74" />
+            <state relative-caret-position="153">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1118#1119#0" expanded="true" />
-                <element signature="e#1145#1146#0" expanded="true" />
-                <element signature="e#1177#1178#0" expanded="true" />
-                <element signature="e#1205#1206#0" expanded="true" />
-                <element signature="e#1242#1243#0" expanded="true" />
-                <element signature="e#1275#1276#0" expanded="true" />
-                <element signature="e#1307#1308#0" expanded="true" />
-                <element signature="e#1336#1337#0" expanded="true" />
-                <element signature="e#1378#1379#0" expanded="true" />
-                <element signature="e#1415#1416#0" expanded="true" />
-                <element signature="e#1446#1447#0" expanded="true" />
-                <element signature="e#1473#1474#0" expanded="true" />
-                <element signature="e#1508#1509#0" expanded="true" />
-                <element signature="e#1540#1541#0" expanded="true" />
-                <element signature="e#1575#1576#0" expanded="true" />
-                <element signature="e#1605#1606#0" expanded="true" />
-                <element signature="e#1641#1642#0" expanded="true" />
-                <element signature="e#1673#1674#0" expanded="true" />
-                <element signature="e#1710#1711#0" expanded="true" />
-                <element signature="e#1741#1742#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="867">
+              <caret line="90" column="25" selection-start-line="90" selection-start-column="25" selection-end-line="90" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jsontest.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="1503" column="17" selection-start-line="1503" selection-start-column="17" selection-end-line="1503" selection-end-column="17" />
+              <folding>
+                <element signature="e#14#30435#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ch/nightfury34/main/utility/JSONHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="278">
+              <caret line="103" column="69" selection-start-line="103" selection-start-column="69" selection-end-line="103" selection-end-column="69" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ch/nightfury34/main/utility/JSONHandler.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ch/nightfury34/main/utility/ArmorStandHandlerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="18" column="31" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="31" />
+            <state relative-caret-position="391">
+              <caret line="48" column="25" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2069#2089#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch/nightfury34/main/armorstands/ArmorstandPosition.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ch/nightfury34/main/utility/JSONHandlerORG.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ch/nightfury34/main/MusicManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+            <state relative-caret-position="199">
+              <caret line="29" column="15" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -151,7 +205,6 @@
         <option value="$PROJECT_DIR$/src/plugin.yml" />
         <option value="$PROJECT_DIR$/src/ch/nightfury34/main/utility/ItemManager.java" />
         <option value="$PROJECT_DIR$/src/ch/nightfury34/main/armorstands/LocalArmorStand.java" />
-        <option value="$PROJECT_DIR$/src/ch/nightfury34/main/utility/XMaterial.java" />
         <option value="$PROJECT_DIR$/src/tets" />
         <option value="$PROJECT_DIR$/src/ch/nightfury34/main/utility/JSONHandler.java" />
         <option value="$PROJECT_DIR$/src/ch/nightfury34/main/utility/ArmorStandHandlerTest.java" />
@@ -159,14 +212,47 @@
         <option value="$PROJECT_DIR$/src/ch/nightfury34/main/armorstands/ParsedArmorstand.java" />
         <option value="$PROJECT_DIR$/src/ch/nightfury34/main/armorstands/ArmorstandPosition.java" />
         <option value="$PROJECT_DIR$/src/ch/nightfury34/main/armorstands/Summoner.java" />
+        <option value="$PROJECT_DIR$/src/main/commands/CommandPiano.java" />
+        <option value="$PROJECT_DIR$/src/ch/nightfury34/main/utility/XMaterial.java" />
         <option value="$PROJECT_DIR$/src/ch/nightfury34/main/commands/CommandPiano.java" />
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/ch/nightfury34/main/utility/JSONHandlerORG.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ch/nightfury34/main/utility/JSONHandler.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="77" />
-    <option name="y" value="14" />
-    <option name="width" value="1936" />
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8.0_191" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="MCPiano" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="MCPiano" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8.0_191" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="265" />
+    <option name="y" value="-8" />
+    <option name="width" value="976" />
     <option name="height" value="1096" />
   </component>
   <component name="ProjectView">
@@ -174,7 +260,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -186,12 +271,12 @@
             <path>
               <item name="MCPiano" type="b2602c69:ProjectViewProjectNode" />
               <item name="MCPiano" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MCPiano" type="b2602c69:ProjectViewProjectNode" />
               <item name="MCPiano" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
               <item name="artifacts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -210,19 +295,22 @@
               <item name="MCPiano" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="armorstands" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MCPiano" type="b2602c69:ProjectViewProjectNode" />
               <item name="MCPiano" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="commands" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MCPiano" type="b2602c69:ProjectViewProjectNode" />
               <item name="MCPiano" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="utility" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -230,6 +318,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -247,24 +336,31 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/libraries/json-20190722.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
       <recent name="ch.nightfury34.main.utility" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Felix\IdeaProjects\MCPiano\src\main\java" />
+      <recent name="C:\Users\Felix\IdeaProjects\MCPiano" />
+      <recent name="C:\Users\Felix\IdeaProjects\MCPiano\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ch.nightfury34.main.utility" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Felix\IdeaProjects\MCPiano" />
-      <recent name="C:\Users\Felix\IdeaProjects\MCPiano\src" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Felix\IdeaProjects\MCPiano\lib" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -328,7 +424,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArmorStandHandlerTest.parse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ArmorStandHandlerTest.getParesArmorStandsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MCPiano" />
       <extension name="coverage">
         <pattern>
@@ -338,7 +434,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="ch.nightfury34.main.utility" />
       <option name="MAIN_CLASS_NAME" value="ch.nightfury34.main.utility.ArmorStandHandlerTest" />
-      <option name="METHOD_NAME" value="parse" />
+      <option name="METHOD_NAME" value="getParesArmorStandsTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -363,10 +459,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.ArmorStandHandlerTest.getArmorStandPositionsTest" />
+        <item itemvalue="JUnit.ArmorStandHandlerTest.getParesArmorStandsTest" />
         <item itemvalue="JUnit.ArmorStandHandlerTest.JSONTest" />
         <item itemvalue="JUnit.ArmorStandHandlerTest.MaterialTest" />
         <item itemvalue="JUnit.ArmorStandHandlerTest.test" />
-        <item itemvalue="JUnit.ArmorStandHandlerTest.parse" />
       </list>
     </recent_temporary>
   </component>
@@ -390,20 +486,22 @@
       <workItem from="1581794258517" duration="1195000" />
       <workItem from="1581872836909" duration="162000" />
       <workItem from="1582188836242" duration="313000" />
-      <workItem from="1582274708733" duration="8062000" />
+      <workItem from="1582274708733" duration="9616000" />
+      <workItem from="1582303048013" duration="3721000" />
+      <workItem from="1582311135706" duration="355000" />
+      <workItem from="1582450912929" duration="9020000" />
     </task>
+    <task id="LOCAL-00001" summary="Add JSONHandler">
+      <created>1582283323490</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582283323490</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ArmorStandHandlerTest_JSONTest - 2020.02.21 at 10h 47m 17s.xml">
-      <configuration name="ArmorStandHandlerTest.JSONTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArmorStandHandlerTest_JSONTest - 2020.02.21 at 10h 48m 35s.xml">
-      <configuration name="ArmorStandHandlerTest.JSONTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArmorStandHandlerTest_JSONTest - 2020.02.21 at 10h 49m 48s.xml">
-      <configuration name="ArmorStandHandlerTest.JSONTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ArmorStandHandlerTest_JSONTest - 2020.02.21 at 10h 49m 50s.xml">
       <configuration name="ArmorStandHandlerTest.JSONTest" configurationId="JUnit" />
     </history-entry>
@@ -425,15 +523,24 @@
     <history-entry file="ArmorStandHandlerTest_getArmorStandPositionsTest - 2020.02.21 at 11h 11m 20s.xml">
       <configuration name="ArmorStandHandlerTest.getArmorStandPositionsTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ArmorStandHandlerTest_getArmorStandPositionsTest - 2020.02.21 at 19h 52m 34s.xml">
+      <configuration name="ArmorStandHandlerTest.getArmorStandPositionsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArmorStandHandlerTest_getParesArmorStandsTest - 2020.02.23 at 13h 40m 29s.xml">
+      <configuration name="ArmorStandHandlerTest.getParesArmorStandsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArmorStandHandlerTest_getArmorStandPositionsTest - 2020.02.23 at 13h 41m 07s.xml">
+      <configuration name="ArmorStandHandlerTest.getArmorStandPositionsTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49978000" />
+    <option name="totallyTimeSpent" value="64628000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="77" y="14" width="1936" height="1096" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2771855" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17004265" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -459,7 +566,7 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Maven" order="6" visible="true" weight="0.32995737" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
@@ -467,41 +574,11 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add JSONHandler" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add JSONHandler" />
+  </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ch/nightfury34/main/utility/JSONHandler.java</url>
-          <line>57</line>
-          <properties />
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ch/nightfury34/main/utility/JSONHandler.java</url>
-          <line>58</line>
-          <properties />
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ch/nightfury34/main/utility/JSONHandler.java</url>
-          <line>59</line>
-          <properties />
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ch/nightfury34/main/utility/JSONHandler.java</url>
-          <line>61</line>
-          <properties />
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ch/nightfury34/main/utility/JSONHandler.java</url>
-          <line>62</line>
-          <properties />
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <watches-manager>
       <configuration name="JUnit">
         <watch expression="tokener" />
@@ -509,17 +586,7 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ch/nightfury34/main/MusicManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="30" selection-start-line="30" selection-end-line="55" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch/nightfury34/main/YawPitch.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch/nightfury34/main/YawPitch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
@@ -527,7 +594,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch/nightfury34/main/armorstands/ArmorStandInstances.java" />
-    <entry file="file://$PROJECT_DIR$/src/ch/nightfury34/main/Combo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch/nightfury34/main/Combo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="629">
           <caret line="41" column="58" selection-start-line="41" selection-start-column="58" selection-end-line="41" selection-end-column="58" />
@@ -564,24 +631,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="679" column="78" selection-start-line="679" selection-start-column="78" selection-end-line="679" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch/nightfury34/main/utility/NBSDecoder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="102" lean-forward="true" selection-start-line="102" selection-end-line="102" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch/nightfury34/main/SongPlayer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch/nightfury34/main/SongPlayer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
@@ -591,7 +641,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch/nightfury34/main/ViewInterpreter.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch/nightfury34/main/ViewInterpreter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
@@ -601,7 +651,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch/nightfury34/main/main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch/nightfury34/main/main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="853">
           <caret line="54" column="7" selection-start-line="54" selection-start-column="7" selection-end-line="54" selection-end-column="7" />
@@ -614,13 +664,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch/nightfury34/main/Summoner.java" />
-    <entry file="file://$PROJECT_DIR$/src/plugin.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -646,14 +689,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tets">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch/nightfury34/main/utility/PropertiesHandler.java">
+    <entry file="file://$PROJECT_DIR$/src/tets" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch/nightfury34/main/utility/PropertiesHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="629">
           <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
@@ -663,31 +700,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch/nightfury34/main/utility/ItemManager.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch/nightfury34/main/utility/ItemManager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch/nightfury34/main/utility/XMaterial.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="564">
-          <caret line="954" selection-start-line="954" selection-end-line="954" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch/nightfury34/main/armorstands/RelativeLocation.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch/nightfury34/main/armorstands/RelativeLocation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch/nightfury34/main/events/EventHandler.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch/nightfury34/main/events/EventHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="47" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
@@ -697,17 +724,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch/nightfury34/main/utility/ArmorStandHandlerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="54" column="48" selection-start-line="54" selection-start-column="48" selection-end-line="54" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch/nightfury34/main/armorstands/LocalArmorStand.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch/nightfury34/main/armorstands/LocalArmorStand.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="29" selection-start-line="29" selection-end-line="34" selection-end-column="5" />
@@ -717,7 +734,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch/nightfury34/main/utility/ArmorStandHandler.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch/nightfury34/main/utility/ArmorStandHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-14">
           <caret line="60" column="26" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
@@ -727,37 +744,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch/nightfury34/main/armorstands/ParsedArmorstand.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch/nightfury34/main/armorstands/ParsedArmorstand.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
+        <state relative-caret-position="663">
           <caret line="45" column="74" selection-start-line="45" selection-start-column="74" selection-end-line="45" selection-end-column="74" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1118#1119#0" expanded="true" />
-            <element signature="e#1145#1146#0" expanded="true" />
-            <element signature="e#1177#1178#0" expanded="true" />
-            <element signature="e#1205#1206#0" expanded="true" />
-            <element signature="e#1242#1243#0" expanded="true" />
-            <element signature="e#1275#1276#0" expanded="true" />
-            <element signature="e#1307#1308#0" expanded="true" />
-            <element signature="e#1336#1337#0" expanded="true" />
-            <element signature="e#1378#1379#0" expanded="true" />
-            <element signature="e#1415#1416#0" expanded="true" />
-            <element signature="e#1446#1447#0" expanded="true" />
-            <element signature="e#1473#1474#0" expanded="true" />
-            <element signature="e#1508#1509#0" expanded="true" />
-            <element signature="e#1540#1541#0" expanded="true" />
-            <element signature="e#1575#1576#0" expanded="true" />
-            <element signature="e#1605#1606#0" expanded="true" />
-            <element signature="e#1641#1642#0" expanded="true" />
-            <element signature="e#1673#1674#0" expanded="true" />
-            <element signature="e#1710#1711#0" expanded="true" />
-            <element signature="e#1741#1742#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch/nightfury34/main/armorstands/ArmorstandPosition.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch/nightfury34/main/armorstands/Summoner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#summonStand#0;class#Summoner#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch/nightfury34/main/armorstands/ArmorstandPosition.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="377">
           <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
@@ -767,34 +775,114 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch/nightfury34/main/armorstands/Summoner.java">
+    <entry file="file://$PROJECT_DIR$/META-INF/MANIFEST.MF">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="43" column="47" selection-start-line="43" selection-start-column="47" selection-end-line="43" selection-end-column="47" />
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch/nightfury34/main/java/plugin.yml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch/nightfury34/main/utility/XMaterial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="903" column="94" lean-forward="true" selection-start-line="903" selection-start-column="94" selection-end-line="903" selection-end-column="94" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#summonStand#0;class#Summoner#0" />
+            <element signature="e#34508#34527#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch/nightfury34/main/commands/CommandPiano.java">
+    <entry file="file://$PROJECT_DIR$/MCPiano.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch/nightfury34/main/commands/CommandPiano.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/maven-archiver/pom.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="679" column="78" selection-start-line="679" selection-start-column="78" selection-end-line="679" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/artifacts/mcpiano.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch/nightfury34/main/MusicManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="29" column="15" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="90" column="25" selection-start-line="90" selection-start-column="25" selection-end-line="90" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsontest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="1503" column="17" selection-start-line="1503" selection-start-column="17" selection-end-line="1503" selection-end-column="17" />
+          <folding>
+            <element signature="e#14#30435#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch/nightfury34/main/utility/JSONHandlerORG.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch/nightfury34/main/utility/NBSDecoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch/nightfury34/main/utility/JSONHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="103" column="69" selection-start-line="103" selection-start-column="69" selection-end-line="103" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch/nightfury34/main/utility/ArmorStandHandlerTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
-          <caret line="23" column="88" selection-start-line="23" selection-start-column="88" selection-end-line="23" selection-end-column="88" />
+          <caret line="48" column="25" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch/nightfury34/main/utility/JSONHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="18" column="31" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2069#2089#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -810,7 +898,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -830,6 +917,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
+          <last-edited>javafx</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -841,6 +929,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
+          <last-edited>1.8.0_191</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -864,7 +953,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>spigot-1.8.8-R0.1-SNAPSHOT-latest</last-edited>
+          <last-edited>Maven: com.google.code.gson:gson:2.2.4</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -875,5 +964,8 @@
         </settings>
       </state>
     </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
   </component>
 </project>
