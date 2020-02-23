@@ -2,6 +2,7 @@ package ch.nightfury34.main.utility;
 
 import ch.nightfury34.main.armorstands.ArmorstandPosition;
 import ch.nightfury34.main.armorstands.ParsedArmorstand;
+import org.bukkit.util.EulerAngle;
 import org.junit.Before;
 import org.junit.Test;
 
@@ -52,6 +53,18 @@ public class ArmorStandHandlerTest {
             System.out.println(e.getPosition());
             System.out.println(e.getRotation());
             System.out.println("----------------");
+        }
+    }
+
+    @Test
+    public void testAngle(){
+        EulerAngle angle = new EulerAngle(Math.toRadians(360), Math.toRadians(2), Math.toRadians(2));
+        ArmorstandPosition pos = new ArmorstandPosition(null, null, angle, 2, false);
+        if(angle.equals(pos.getRotation())){
+            System.out.println("true");
+        }else{
+            System.out.println("false");
+            System.out.println(pos.getRotation());
         }
     }
 }

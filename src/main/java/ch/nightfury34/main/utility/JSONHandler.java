@@ -101,9 +101,10 @@ public class JSONHandler {
                                     position.get("x").getAsDouble(),
                                     position.get("y").getAsDouble(),
                                     position.get("z").getAsDouble()),
-                            new EulerAngle(rotation.get("x").getAsDouble(),
-                                    rotation.get("y").getAsDouble(),
-                                    rotation.get("z").getAsDouble()),
+                            new EulerAngle(
+                                    (rotation.get("x").getAsDouble()),
+                                    (rotation.get("y").getAsDouble()),
+                                    (rotation.get("z").getAsDouble())),
                             data.get("size").getAsDouble(),
                             data.get("visible").getAsBoolean()
                     ));
