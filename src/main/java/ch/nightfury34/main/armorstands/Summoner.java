@@ -16,7 +16,7 @@ public class Summoner {
 
     public Summoner(Vector<ParsedArmorstand> parsedArmorstands, Vector<ArmorstandPosition> pos, Location location){
         for(ParsedArmorstand stand:parsedArmorstands){
-            summonStand(stand, getPosByName(stand.getCustomname(), pos), location);
+            summonStand(stand, getPosByName(stand.getCustomname(), pos), location.clone());
         }
     }
 
@@ -41,7 +41,7 @@ public class Summoner {
         arstand.setArms(true);
         arstand.setGravity(false);
         arstand.setHeadPose(pos.getRotation());
-        arstand.setVisible(stand.getVisible());
+        arstand.setVisible(pos.getVisible());
         arstand.setHelmet(stand.getItemStack());
     }
 

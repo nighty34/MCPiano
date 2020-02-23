@@ -49,6 +49,14 @@
         </repository>
     </repositories>
     <build>
+        <resources>
+            <resource>
+                <directory>src/</directory>
+                <includes>
+                    <include>plugin.yml</include>
+                </includes>
+            </resource>
+        </resources>
         <pluginManagement>
             <plugins>
                 <plugin>
