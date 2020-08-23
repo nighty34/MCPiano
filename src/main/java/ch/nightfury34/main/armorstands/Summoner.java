@@ -58,6 +58,7 @@ public class Summoner {
             //SUMMON VILLAGER
             location.setY(location.getY() + SMALLY);
             location.setZ(location.getZ() + SMALLZ);
+
             location.setYaw((float)Math.toDegrees(pos.getRotation().getY()));
             location.setPitch((float)Math.toDegrees(pos.getRotation().getX()));
             Villager villager = (Villager) location.getWorld().spawnEntity(location, EntityType.VILLAGER);
@@ -72,25 +73,27 @@ public class Summoner {
             //SUMMON SMALL ARMORSTAND
             location.setY(location.getY() + MEDIUMY);
             location.setZ(location.getZ() + MEDIUMZ);
+
             ArmorStand arstand = (ArmorStand) location.getWorld().spawnEntity(location, EntityType.ARMOR_STAND);
-            arstand.setGravity(false);
-            arstand.setHeadPose(pos.getRotation());
+            //arstand.setGravity(false);
+            //arstand.setHeadPose(pos.getRotation());
+            setUp(arstand, pos, stand);
             arstand.setSmall(true);
-            arstand.setVisible(!stand.getVisible());
-            arstand.setHelmet(stand.getItemStack());
+            //arstand.setVisible(!stand.getVisible());
+            //arstand.setHelmet(stand.getItemStack());
         }else if(stand.getSize().equalsIgnoreCase("large")){
             //SUMMON NORMAL ARMORSTAND
             location.setY(location.getY() + LARGEY);
             location.setZ(location.getZ() + LARGEZ);
 
             ArmorStand arstand = (ArmorStand) location.getWorld().spawnEntity(location, EntityType.ARMOR_STAND);
-            arstand.setGravity(false);
-            arstand.setHeadPose(pos.getRotation());
+            setUp(arstand, pos, stand);
             arstand.setSmall(false);
-            arstand.setVisible(!stand.getVisible());
-            arstand.setHelmet(stand.getItemStack());
+            //arstand.setVisible(!stand.getVisible());
+            //arstand.setHelmet(stand.getItemStack());
         }else if(stand.getSize().equalsIgnoreCase("solid")){
             //SETBLOCK
+            location.getWorld().getBlockAt(location).setType(stand.getItemStack().getType());
         }
 ;
     }
@@ -107,6 +110,11 @@ public class Summoner {
     }
 
 
+    /**
+     * NoAITag for Villager (Type Small)
+     * @param ent   Entity
+     * @param noAI  Boolean if yes/no
+     */
     public void setNoAITag(Entity ent, boolean noAI) {
         try {
             String pack = Bukkit.getServer().getClass().getPackage().getName();
@@ -119,5 +127,20 @@ public class Summoner {
         } catch (Exception e) {
             e.printStackTrace();
         }
+    }
+
+
+    /**
+     * General Setup for ArmorStands
+     * @param armorStand    ArmorStandInstance
+     * @param pos           ArmorStandPosition for active ArmorStand
+     * @param stand         ParsedArmorStand for active ArmorStand
+     */
+    private void setUp(ArmorStand armorStand, ArmorstandPosition pos, ParsedArmorstand stand){
+        armorStand.setGravity(false);
+        armorStand.setHeadPose(pos.getRotation());
+        armorStand.setVisible(!stand.getVisible());
+        armorStand.setHelmet(stand.getItemStack());
+
     }
 }

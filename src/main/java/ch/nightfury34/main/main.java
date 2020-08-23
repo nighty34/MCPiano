@@ -24,7 +24,7 @@ public class main extends JavaPlugin {
         if(!file.exists()){
             try{
                 file.mkdir();
-                File file1 = new File("plugins/mcPiano/music");
+                File file1 = new  File("plugins/mcPiano/music");
                 if(!file1.exists()){
                     file1.mkdir();
                 }

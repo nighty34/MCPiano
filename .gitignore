@@ -1,0 +1,5 @@
+out/
+META-INF/
+.idea/
+target/
+jsontest.json
