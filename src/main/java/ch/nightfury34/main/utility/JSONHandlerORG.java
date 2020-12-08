@@ -51,12 +51,19 @@ public class JSONHandlerORG {
     }
 
 
-    public static Vector<ArmorstandPosition> parsePostions(File file, World world){
+    /**
+     * Parses the position of an armorstand
+     * @param file File that should be parsed
+     * @param world World reference
+     * @param keyframe read specific keyframe
+     * @return
+     */
+    public static Vector<ArmorstandPosition> parsePostions(File file, World world, int keyframe){
         Vector<ArmorstandPosition> postions = new Vector<ArmorstandPosition>();
         try {
             JSONTokener tokener = new JSONTokener(file.toURI().toURL().openStream());
             JSONObject root = new JSONObject(tokener);
-            JSONArray objects = root.getJSONArray("keyframes").getJSONObject(0).getJSONArray("objects");
+            JSONArray objects = root.getJSONArray("keyframes").getJSONObject(keyframe).getJSONArray("objects");
             for(int i = 0; objects.length()>i; i++){
                 JSONObject data = objects.getJSONObject(i);
                 JSONObject position = data.getJSONObject("position");
